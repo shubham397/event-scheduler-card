@@ -27,7 +27,7 @@ src/
 
 ```bash
 git clone
-cd step_progress_tracker
+cd event-scheduler-card
 npm install
 npm start
 ```
